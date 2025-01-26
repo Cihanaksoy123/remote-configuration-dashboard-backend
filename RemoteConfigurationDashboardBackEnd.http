@@ -1,0 +1,6 @@
+@RemoteConfigurationDashboardBackEnd_HostAddress = http://localhost:5287
+
+GET {{RemoteConfigurationDashboardBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
